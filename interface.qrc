@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>icon/建筑.svg</file>
+    <file>建筑.svg</file>
+    <file>icon/建筑 (1).svg</file>
+    <file>icon/建筑.svg</file>
+  </qresource>
+</RCC>
